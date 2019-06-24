@@ -17,7 +17,7 @@ lang: zh-CN
 title: "XUE HUANMEI's Jekyll at Gitee"
 email:
 description: "XUE HUANMEI在gitee的家"
-baseurl: "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
+baseurl: "/myhome" # the optional subpath of your site, e.g. "/blog"
 url: "https://gitee.com/xuehuanmei" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name:
