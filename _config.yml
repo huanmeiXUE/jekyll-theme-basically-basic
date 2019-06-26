@@ -20,11 +20,11 @@ description: "XUE HUANMEI在gitee的家"
 baseurl: "/myhome" # the optional subpath of your site, e.g. "/blog"
 url: "https://gitee.com/xuehuanmei" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: “薛焕媚”
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username: xuehuanmei
 logo: "/assets/images/头像1.jpg" # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
