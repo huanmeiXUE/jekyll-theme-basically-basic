@@ -1,4 +1,5 @@
 ---
+layout: tag
 title: Heart Beat
 excerpt_separator: "<!--more-->"
 categories:
