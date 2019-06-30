@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - SVG制作
 tags:
-  - svg
+  - SVG制作
 ---
 
 ## 如何制作心跳的动图？？
