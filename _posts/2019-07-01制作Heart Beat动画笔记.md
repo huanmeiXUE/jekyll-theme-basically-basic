@@ -1,11 +1,9 @@
 ---
-layout: tag
 title: Heart Beat
-excerpt_separator: "<!--more-->"
 categories:
-  - SVG制作
+  - svg制作
 tags:
-  - SVG制作
+  - svg
 ---
 
 ## 如何制作心跳的动图？？

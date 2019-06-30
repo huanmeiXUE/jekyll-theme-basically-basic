@@ -1,8 +1,8 @@
 ---
-title: SVG制作
-layout: tag
-permalink: /tags/SVG制作/
-taxonomy: SVG制作
+title: svg制作
+layout: tags
+permalink: /tag/svg制作/
+taxonomy: svg制作
 ---
 
-分类《SVG制作》下的文章：
+分类《svg制作》下的文章：
