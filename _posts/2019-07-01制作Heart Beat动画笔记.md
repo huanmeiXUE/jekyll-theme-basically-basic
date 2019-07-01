@@ -1,9 +1,9 @@
 ---
+layout: tag
 title: Heart Beat
-categories:
-  - svg制作
+date: 2019-06-25
 tags:
-  - svg
+     - SVG制作
 ---
 
 ## 如何制作心跳的动图？？
