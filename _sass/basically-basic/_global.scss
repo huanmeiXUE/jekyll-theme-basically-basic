@@ -1,9 +1,9 @@
 /* ==========================================================================
    Site-wide
    ========================================================================== */
-
+@media screen and (min-width: 320px)
 .site-title {
-  @include fluid-type($min-vw, $max-vw, 600px, 60px);
+  @include fluid-type($min-vw, $max-vw, 600px, 20px);
   margin: 0;
   padding: 1.8125rem 1rem;
   padding-right: calc(
