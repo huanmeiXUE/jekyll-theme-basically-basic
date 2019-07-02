@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+image: assets/images/banner/guanyuwo.jpg
 ---
 
 ### 目前就读于中山大学南方学院网络与新媒体专业2班 2018级
