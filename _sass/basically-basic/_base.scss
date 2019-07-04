@@ -6,15 +6,6 @@ html {
   @include fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size);
 }
 
-.bar {
-    position: absolute;
-    color: #00000;
-    font-size: 0.9em;
-    bottom: 5px;
-    display: flex;
-    justify-content: space-around;  
-    width: 100%;
-}
 
 body {
   background: $background-color;
