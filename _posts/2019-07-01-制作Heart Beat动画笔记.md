@@ -48,5 +48,16 @@ tags:
   100%  { -webkit-transform: scale(1); }
 }
 </style>
- 
+
+### 在这个心跳的动图里它用了什么效果呢？
+- transform：平移
+
+### 还有用了哪些属性呢？？
+- keyframes
+- animation
+1. 利用@keyframes声明一个关键帧组。
+
+2. 在animation属性中调用上述声明的的关键帧组，来实现动画。
+
+#### 补充说明：在CSS属性能中，我们常常能看到-webkit-，-moz-之类的前缀，这种就叫做浏览器私有前缀，是浏览器对于新CSS属性的一个提前支持。-webkit-是webkit内核的，-moz-是Firefox Gecko内核，moz代表的是Firefox的开发商Mozilla。
  
